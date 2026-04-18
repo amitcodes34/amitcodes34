@@ -412,8 +412,8 @@ Dataset : 15,000+ face images
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> | [amitkumarnike76](https://leetcode.com/u/amitkumarnike76/) | 1400+ Rating · 400+ Solved |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /> | [your-gfg-id](https://www.geeksforgeeks.org/user/your-gfg-id/) | DSA Sheet Completed |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | [your-codechef-id](https://www.codechef.com/users/your-codechef-id) | Rated Contestant |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /> | [amitraj34](https://www.geeksforgeeks.org/profile/amitraj34) | DSA Sheet Completed |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | [rajkumar59](https://www.codechef.com/users/rajkumar59) | Rated Contestant |
 | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | [your-cf-id](https://codeforces.com/profile/your-cf-id) | Competitive Programmer |
 | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /> | [your-hr-id](https://www.hackerrank.com/your-hr-id) | 5⭐ Problem Solving |
 
@@ -509,7 +509,7 @@ Dataset : 15,000+ face images
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio.vercel.app">
+  <a href="https://portfolio3-topaz-ten.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
@@ -517,11 +517,11 @@ Dataset : 15,000+ face images
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/your-gfg-id/">
+  <a href="https://www.geeksforgeeks.org/profile/amitraj34">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/your-codechef-id">
+  <a href="https://www.codechef.com/users/rajkumar59">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   &nbsp;
@@ -542,12 +542,12 @@ Dataset : 15,000+ face images
 ╠══════════════════════════════════════════════════════════════╣
 ║  your-linkedin     → your LinkedIn profile slug             ║
 ║  amitkumarnike76  → your LeetCode username                 ║
-║  your-gfg-id       → your GFG username                      ║
-║  your-codechef-id  → your CodeChef username                 ║
+║  amitraj34       → your GFG username                      ║
+║  rajkumar59  → your CodeChef username                 ║
 ║  your-cf-id        → your Codeforces handle                 ║
 ║  your-hr-id        → your HackerRank username               ║
 ║  your-twitter      → your Twitter/X handle                  ║
-║  your-portfolio    → your portfolio site URL                ║
+║  portfolio3-topaz-ten.vercel.app → portfolio ✅                ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  SETUP DYNAMIC FEATURES:                                    ║
 ║  Snake    → github.com/Platane/snk (GitHub Action)          ║
